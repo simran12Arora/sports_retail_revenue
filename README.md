@@ -1,6 +1,7 @@
 Here I analyze product data for an online sports retail company to optimize revenue.
 This dataset contains five tables - 
 
+
 Info- contains product id with its name and description.
 Finance -contains product id with its listing price, sale price, discount, and revenue.
 Reviews -contains product id with its rating and number of reviews.
